@@ -7,7 +7,7 @@
    - ***OS:*** RHEL/CentOS/Fedora, Debian/Ubuntu/kali, Windows/Server/10
    - ***Virtualization:*** oVirt, RHEV, VMWare, Hyper-V, Oracle.
    - ***Cloud:*** Azure, AWS, Google Cloud. 
-   
+
 &nbsp;
    - ***Infrastructure as Code (IaC):*** Terraform, Packer, Vagrant
    - ***Infrastruture as a Service (IaaS):*** Openstack, Azure, AWS, GCP, IBM Cloud, Red Hat Cloud
@@ -36,7 +36,7 @@
  
 
 ### 🌱 I’m currently learning ...
-   - ***Red Hat Certified Engineer, Red Hat OpenShift Administration II (DO280)***
+   - Red Hat Certified Engineer (ex294) , Red Hat OpenShift Administration II (ex280)
 
 
 ### 💞️ I’m looking to collaborate on ...
