@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jacob Blanco
 
-I'm IT professional with more than 10 years working experience.
+I'm an IT professional with more than 10 years working experience.
 
 I love and have fun with Engineering, Implementation, Deployment, Administration, 
 Support, Training and Implementation IT solutions, on different Infrastructures such:
