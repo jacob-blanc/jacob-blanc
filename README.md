@@ -1,5 +1,11 @@
 ## 👋 Hi, I’m Jacob Blanco
 
+I'm IT professional with more than 10 years working experience.
+
+I love and have fun with Engineering, Implementation, Deployment, Administration, 
+Support, Training and Implementation IT solutions, on different Infrastructures such:
+
+Virtualization, Cloud Services, Containers, High Availability, CI/CD.
 
 <a href="https://github.com/jacob-blanc">
   <img align="left" alt="Jacob Blanco Rodríguez | GitHub" width="21px" src="https://raw.githubusercontent.com/jacob-blanc/jacob-blanc/master/assets/github.png" />
@@ -10,6 +16,7 @@
 
 <br />
 <br />
+
 
 
 **Thanks for visiting my GitHub profile!** 😊
