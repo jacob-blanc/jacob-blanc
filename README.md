@@ -1,6 +1,21 @@
 ## 👋 Hi, I’m Jacob Blanco
 
 
+<a href="https://github.com/jacob-blanc">
+  <img align="left" alt="Jacob Blanco Rodríguez | GitHub" width="21px" src="https://raw.githubusercontent.com/jacob-blanc/jacob-blanc/master/assets/github.png" />
+</a>
+<a href="https://www.linkedin.com/in/jacobblanco/">
+  <img align="left" alt="Jacob Blanco Rodríguez  | LinkedIn" width="21px" src="https://raw.githubusercontent.com/jacob-blanc/jacob-blanc/master/assets/linkedin.png" />
+</a>
+
+<br />
+<br />
+
+
+**Thanks for visiting my GitHub profile!** 😊
+
+
+
 ### 👀 I’m interested in ...
 
 
@@ -40,15 +55,33 @@
 
 
 ### 💞️ I’m looking to collaborate on ...
-   - ***oVirt/RHEV
-   - ***OKD/Openshift
+   - ***oVirt / RHEV***
+   - ***OKD / Openshift***
 
 
 ### 📫 How to reach me ...
 
+- 📫 The best way to reach me is by sending me an email to jblanco272@gmail.com
+- 💬 Ask me about anything [here](https://github.com/jacob-blanc/jacob-blanc/issues).
+- ✍🏻 visit my blog [jbit.es](https://jbit.es/)
+
+**Languages and Tools:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
-<!---
-jacob-blanc/jacob-blanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**GitHub Stats:**  
+
+<a href="https://github.com/jacob-blanc/jacob-blanc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanlopez&hide=html,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
