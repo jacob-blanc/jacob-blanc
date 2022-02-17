@@ -71,7 +71,7 @@ Virtualization, Cloud Services, Containers, High Availability, CI/CD.
 
 - 📫 The best way to reach me is by sending me an email to jacob.blancorodriguez@hotmail.com
 - 💬 Ask me about anything [here](https://github.com/jacob-blanc/jacob-blanc/issues).
-- ✍🏻 visit my blog [jbit.es](http://pwsh.es)
+- ✍🏻 visit my blog [pwsh.es](http://pwsh.es)
 
 **Languages and Tools:**  
 
