@@ -59,6 +59,7 @@ Virtualization, Cloud Services, Containers, High Availability, CI/CD.
 
 ### 🌱 I’m currently learning ...
    - Red Hat Certified Engineer (ex294) , Red Hat OpenShift Administration II (ex280)
+   - lpic-2
 
 
 ### 💞️ I’m looking to collaborate on ...
@@ -68,9 +69,9 @@ Virtualization, Cloud Services, Containers, High Availability, CI/CD.
 
 ### 📫 How to reach me ...
 
-- 📫 The best way to reach me is by sending me an email to jblanco272@gmail.com
+- 📫 The best way to reach me is by sending me an email to jacob.blancorodriguez@hotmail.com
 - 💬 Ask me about anything [here](https://github.com/jacob-blanc/jacob-blanc/issues).
-- ✍🏻 visit my blog [jbit.es](https://jbit.es/)
+- ✍🏻 visit my blog [jbit.es](http://pwsh.es)
 
 **Languages and Tools:**  
 
